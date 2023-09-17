@@ -107,3 +107,26 @@ button {
     text-align: center;
     gap: 8px;
 }
+
+.quote {
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    padding: 100px;
+    justify-content: center;
+    align-items: center;
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.quote-text {
+    width: 790px;
+}
+
+.quoter {
+    font-size: 24px;
+    font-weight: 600;
+    font-style: normal;
+    margin-left: 500px;
+}
