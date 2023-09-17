@@ -3,6 +3,7 @@ body {
     background-color: #1F2937;
     display: flex;
     flex-direction: column;
+    margin: 0px;
 }
 
 .header {
@@ -168,5 +169,5 @@ button > a {
     color: #F9FAF8;
     display: flex;
     justify-content: center;
-    padding-top: 32px;
+    padding: 32px;
 }
